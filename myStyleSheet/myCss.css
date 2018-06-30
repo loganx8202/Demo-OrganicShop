@@ -1,0 +1,49 @@
+@font-face{
+    font-family: "myFont1";
+    src: url("../myFonts/BARK.ttf")
+}
+@font-face{
+    font-family: "myFont2";
+    src: url("../myFonts/CANDY___.ttf")
+}
+#menu button{
+    padding: 10px;
+    border-radius: 20px;
+    width: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+#menu{
+    border: solid white;
+    border-radius: 20px;
+    width: fit-content;
+    margin: auto;
+    margin-right: 0%;
+}
+#barbraTitle{
+    font-family: "myFont2";
+    font-size: 50px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: center;
+    color:rgb(255, 44, 44);
+    background-color:rgba(250, 240, 108, 0);
+    border-top-left-radius: 20px; 
+    border-bottom-right-radius: 20px; 
+}
+#barbraTitle:hover{
+    border: solid rgb(255, 44, 44);
+}
+#table1{
+    width: 90%;
+    margin: auto;
+}
+body{
+    background-color: rgba(24, 24, 24, 0.986);
+    background-size: cover;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid white;
+}
+
